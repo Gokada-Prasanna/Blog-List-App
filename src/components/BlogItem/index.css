@@ -1,0 +1,11 @@
+/* Write your CSS code here */
+.title-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.title {
+  margin-bottom: 0px;
+}
